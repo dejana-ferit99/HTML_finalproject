@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: darkblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header a{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.main_image{
+    width: 100%;
+    height: 410px;
+}
+.main_image img{
+    width: 100%;
+    height: 410px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.travel-places{
+    background-color: lightblue;
+}
+.travel-places h1{
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.places-container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.place-container{
+    background-color:white;
+    width: 200px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.place-container img{
+    width: 200px;
+    height: 200px;
+}
+.place_name{
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.place_description p{
+    margin: 0;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+.contact_page{
+    background-color: lightblue;
+    padding-bottom: 40px;
+}
+.contact_page h1{
+    text-align: center;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+form{
+    border: 1px solid black;
+    background-color: white;
+}
+.inputs-containter{
+    padding: 50px 20px 20px 20px;
+}
+input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom:1px solid #ccc;
+    font-size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+  }
+.input{
+    width: 450px;
+  }
+.submit_button{
+    background-color: darkblue;
+    padding: 12px 24px 12px 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+  }
+#submit-form{
+    text-align: center;
+    height: 50px;
+}
+.contact-form{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.footer{
+    background-color: #202A44;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 28px;
+}
+.footer a{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
